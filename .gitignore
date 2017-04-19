@@ -1,0 +1,80 @@
+#our system require
+*storeconfig.php
+*config.php
+*.log
+*.txt
+*.jar
+*.war
+*.ear
+*.class
+*.sh
+*.sql
+*objects4
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+
+# Mac OS system
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Icon
+.AppleDouble
+.LSOverride
+.AppleDB
+.AppleDesktop
+.apdisk
+
+# Windows system
+*.lnk
+*.cab
+*.msi
+*.msm
+*.msp
+$RECYCLE.BIN/
+Desktop.ini
+Thumbs.db
+ehthumbs.db
+
+# Linux system
+*~
+
+# eclipse specific git ignore
+.target
+.gradle
+*.pydevproject
+.buildpath
+.project
+.metadata
+*.launch
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+.cproject
+.texlipse
+
+# External tool builders
+.externalToolBuilders/
+
+# Packages
+*.tar
+*.tar.gz
+*.tar.bz2
+*.zip
+*.7z
+*.dmg
+*.iso
+*.rar
+
+# Compiled source
+*.dll
+*.exe
+*.rpm
+*.so
+
+
